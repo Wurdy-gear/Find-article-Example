@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="PseudoCode" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="PseudoCode" />
+  </ItemGroup>
+
 </Project>
