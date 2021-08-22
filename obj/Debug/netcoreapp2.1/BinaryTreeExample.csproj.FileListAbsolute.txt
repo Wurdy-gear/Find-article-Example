@@ -10,3 +10,9 @@ C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcor
 C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.dll
 C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.pdb
 C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.genruntimeconfig.cache
+C:\Users\Wurdy\Desktop\Учёба\SAP\Кейс 2\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.csprojAssemblyReference.cache
+C:\Users\Wurdy\Desktop\Учёба\SAP\Кейс 2\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.AssemblyInfoInputs.cache
+C:\Users\Wurdy\Desktop\Учёба\SAP\Кейс 2\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.AssemblyInfo.cs
+C:\Users\Wurdy\Desktop\Учёба\SAP\Кейс 2\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.csproj.CoreCompileInputs.cache
+C:\Users\Wurdy\Desktop\Учёба\SAP\Кейс 2\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.dll
+C:\Users\Wurdy\Desktop\Учёба\SAP\Кейс 2\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.pdb

@@ -9,8 +9,4 @@
     <None Remove="PseudoCode" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Compile Include="PseudoCode" />
-  </ItemGroup>
-
 </Project>
