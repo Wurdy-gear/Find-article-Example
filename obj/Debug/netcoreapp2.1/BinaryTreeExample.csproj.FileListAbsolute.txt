@@ -1,0 +1,12 @@
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp2.1\BinaryTreeExample.deps.json
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp2.1\BinaryTreeExample.runtimeconfig.json
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp2.1\BinaryTreeExample.runtimeconfig.dev.json
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp2.1\BinaryTreeExample.dll
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp2.1\BinaryTreeExample.pdb
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.csprojAssemblyReference.cache
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.AssemblyInfoInputs.cache
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.AssemblyInfo.cs
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.csproj.CoreCompileInputs.cache
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.dll
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.pdb
+C:\Users\Wurdy\Source\Repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp2.1\BinaryTreeExample.genruntimeconfig.cache
